@@ -1,4 +1,4 @@
-# simple-OS
+# simpleOS
 
 # License 
 <ul>
